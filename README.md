@@ -6,6 +6,11 @@ An Organized Video Reference For Learning Web Development.
 * If you enjoy this please star, share, and/or contribute videos by posting an issue.
 * Video Times are approximates.
 
+### General:
+* [2016-2017 Web Technologies Rundown](https://www.youtube.com/watch?v=sBzRwzY7G-k)
+  * Time: 23min
+  * Channel: [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+
 ### GitHub:
 * [GitHub for Noobs](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw)
   * Time: 1hr
@@ -30,7 +35,7 @@ An Organized Video Reference For Learning Web Development.
 * [What is Node.js Exactly?](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
   * Time: 13min
   * Channel: [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
-  
+
 * [How to Create NPM Packages](https://www.youtube.com/watch?v=sELoj6e1ffM)
   * Time: 4hr 30min
   * Channel: [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
