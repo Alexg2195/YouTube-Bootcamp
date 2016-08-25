@@ -49,3 +49,7 @@ An Organized Video Reference For Learning Web Development.
 * [When, Where and How to Use It](https://www.youtube.com/watch?v=zGNQaDhg94g)
   * Time: 50min
   * Channel: [Midwest JS](https://www.youtube.com/channel/UCg09l6pJcp2DdCcsSrJmQng)
+
+  * [Learning React.js](https://www.youtube.com/playlist?list=PLillGF-RfqbbKWfm3Y_RF57dNGsHnkYqO)
+    * Time: 1hr 20min
+    * Channel: [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)
