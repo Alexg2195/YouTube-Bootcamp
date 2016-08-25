@@ -50,6 +50,10 @@ An Organized Video Reference For Learning Web Development.
   * Time: 50min
   * Channel: [Midwest JS](https://www.youtube.com/channel/UCg09l6pJcp2DdCcsSrJmQng)
 
+  * [React in 15ish minutes](https://www.youtube.com/watch?v=PGUMRVowdv8)
+    * Time: 20min
+    * Channel: [Dev Coffee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw)
+
   * [Learning React.js](https://www.youtube.com/playlist?list=PLillGF-RfqbbKWfm3Y_RF57dNGsHnkYqO)
     * Time: 1hr 20min
     * Channel: [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)
