@@ -2,7 +2,8 @@
 An Organized Video Reference For Learning Web Development.
 
 ## Please Note:
-* These are videos I personally recommend. If you have others please post it in an issue.
+* These are videos I personally watched and recommend to use as a learning tool. This means that I think they provide adequate explanations and/or examples during the video to be useful.
+* If you enjoy this please star, share, and/or contribute videos by posting an issue.
 * Video Times are approximates.
 
 ### GitHub:
@@ -26,6 +27,10 @@ An Organized Video Reference For Learning Web Development.
   * Channel: [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 
 ### Node.js:
+* [What is Node.js Exactly?](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
+  * Time: 13min
+  * Channel: [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+  
 * [How to Create NPM Packages](https://www.youtube.com/watch?v=sELoj6e1ffM)
   * Time: 4hr 30min
   * Channel: [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
