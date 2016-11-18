@@ -40,6 +40,11 @@ An Organized Video Reference For Learning Web Development.
   * Time: 4hr 30min
   * Channel: [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
 
+### Sequelize:
+* [Sequelize](https://www.youtube.com/playlist?list=PL5ze0DjYv5DYBDfl0vF_VRxEu8JdTIHlR)
+  * Time: 65min
+  * Channel: [Code Cast](https://www.youtube.com/channel/UCcQsDUZiK1GWDcP7BpVO_kw)
+
 ### Email:
 * [Responsive Email Design](https://www.youtube.com/watch?v=XnWIperMy08&)
   * Time: 35min
