@@ -2,7 +2,7 @@
 An Organized Video Reference For Learning Web Development.
 
 ## Please Note:
-* These are videos I personally watched and recommend to use as a learning tool. This means that I think they provide adequate explanations and/or examples during the video to be useful.
+* These are videos I have personally watched and recommend to use as a learning tool. This means that I think they provide adequate explanations and/or examples during the video to be useful.
 * If you enjoy this please star, share, and/or contribute videos by posting an issue.
 * Video Times are approximates.
 
