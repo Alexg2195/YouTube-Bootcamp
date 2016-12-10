@@ -62,3 +62,7 @@ An Organized Video Reference For Learning Web Development.
 * [Learning React.js](https://www.youtube.com/playlist?list=PLillGF-RfqbbKWfm3Y_RF57dNGsHnkYqO)
   * Time: 1hr 20min
   * Channel: [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)
+
+* [React Js Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+  * Time: 3hr
+  * Channel: [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
